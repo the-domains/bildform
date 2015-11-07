@@ -1,0 +1,23 @@
+name: bildform
+favicon: null
+layout_spectrum: 0.1730957766994834
+typography_spectrum: 0.8515085075050592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.08752437261864543
+  lightness: 0.31636249111033976
+  saturation: 0.8626040171366185
+  rhythmicContrast: 0.7626526826061308
+purpose: []
