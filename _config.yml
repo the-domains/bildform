@@ -6,13 +6,13 @@ color:
     - '#c5b89e'
     - '#000000'
     - '#817a19'
-  brandStrength: 0.441441
+  brandStrength: 0.3125
   lightness: 0.8125
-  rhythmicContrast: 0.52027
+  rhythmicContrast: 0.75
   saturation: 0.125
 cta: {}
 layout_spectrum: 0.93384
 name: bildform
 opengraph: {}
 purpose: []
-typography_spectrum: 0.96979
+typography_spectrum: 0.557432
